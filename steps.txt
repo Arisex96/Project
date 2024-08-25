@@ -15,3 +15,17 @@ make git repo n follow the usual steps
 7. "scripts": {
     "dev": "nodemon src/index.js"
   }, in package
+
+8. npm i -D prettier
+make .prettierrc
+add {
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "semi": true
+}
+9. make .prettierignore
+add *.env
+.env
+.env.*
