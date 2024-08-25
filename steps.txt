@@ -4,3 +4,8 @@ npm init
 make git repo n follow the usual steps
 3. add .gitkeep and .gitignore
 4 fill from gitignore generator
+5. set type module in pakage.json
+6 npm i -D nodemon
+7. "scripts": {
+    "dev": "nodemon src/index.js"
+  }, in package
