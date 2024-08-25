@@ -29,3 +29,6 @@ add {
 add *.env
 .env
 .env.*
+
+10. define ur env n contacts
+11. npm i dotenv express moongose // u can check all in dependencies
