@@ -1,3 +1,9 @@
+0. cd <file name>
+ cd ..
+ ls
+ touch <name> <name...> //files
+ mkdir <name> <name...> // folder
+ mkdir controllers db middlewares models routes utils
 1.
 npm init
 2. 
