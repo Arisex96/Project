@@ -1,0 +1,6 @@
+1.
+npm init
+2. 
+make git repo n follow the usual steps
+3. add .gitkeep and .gitignore
+4 fill from gitignore generator
